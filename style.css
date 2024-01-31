@@ -1,0 +1,63 @@
+.img{
+    text-align: right;
+}
+
+
+
+
+.abcd{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.a,.b,.c{
+    border: 2px solid black;
+    width: 500px;
+    height: 340px;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.form1{
+    margin-top: 20px;
+    width: 40%;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: 10px, 10px, 20px white;
+    text-align: center;
+    
+}
+input{background-color: rgba(0, 0, 0, 0.4); padding: 10px; margin: 20px; color: rgba(0, 0, 0, 0); font-size: 12px;}
+input[type=sumbit]{background-color: greenyellow; margin-top: 20px; border-radius: 10px; width: 100%; margin-left: 0px;}
+input:focus {background-color:rgb(252,223,157); color:rgb(295,189,6)}
+label{color:white; background-color: rgba(0, 0, 0, 0.4); box-shadow: 10px 10px 13px black; border-radius: 10px;}
+.h1{color: ghostwhite; background-color: rgba(0, 0, 0, 0.4); box-shadow: 10px 10px 13px black; border-radius: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
